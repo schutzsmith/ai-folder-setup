@@ -50,12 +50,12 @@ of where we left off. Then we'll discuss and get started.
 
 ## Learn more
 
-This skill was built as part of [Good Code](https://goodcode.schutzsmith.com) — a practical field guide for founders, PMs, and operators who are building with AI tools. It covers the principles, workflows, and pitfalls that matter most when you're not a developer by training.
+This skill was built as part of [Good Code](https://goodcode.danielhayessmith.com) — a practical field guide for founders, PMs, and operators who are building with AI tools. It covers the principles, workflows, and pitfalls that matter most when you're not a developer by training.
 
 ## Questions or want help building with AI?
 
-I'm [Daniel Schutzsmith](https://daniel.schutzsmith.com), an AI consultant who helps teams and founders build better with AI tools. If you have questions about this template, want to talk through your project setup, or are interested in working together — reach out:
+I'm [Daniel Hayes Smith](https://danielhayessmith.com), an AI consultant who helps teams and founders build better with AI tools. If you have questions about this template, want to talk through your project setup, or are interested in working together — reach out:
 
-- **Website:** [daniel.schutzsmith.com](https://daniel.schutzsmith.com)
-- **X:** [@schutzsmith](https://x.com/schutzsmith)
-- **LinkedIn:** [danielschutzsmith](https://linkedin.com/in/danielschutzsmith)
+- **Website:** [danielhayessmith.com](https://danielhayessmith.com)
+- **X:** [@danielhayesmith](https://x.com/danielhayesmith)
+- **LinkedIn:** [danielhayessmith](https://linkedin.com/in/danielhayessmith)
